@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 - HTML, CSS, JavaScript
 - Python
+- Git
 - Java
+- PHP
 
 ## Lo que encontrarás aquí 📂
 
