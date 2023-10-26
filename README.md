@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## Lenguajes de programación y tecnologías que estoy aprendiendo 🛠️
 
-- 🌐 HTML, CSS, JavaScript
-- 🐍 Python
-- ☕ Java
+- HTML, CSS, JavaScript
+- Python
+- Java
 
 ## Lo que encontrarás aquí 📂
 
